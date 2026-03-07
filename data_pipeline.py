@@ -3,7 +3,7 @@ import time
 import datetime
 
 print('Starting data pipeline at ', datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
-print('============================================================')
+print('==================================================================')
 
 #* step 1: extract video IDs
 t0 = time.time()
